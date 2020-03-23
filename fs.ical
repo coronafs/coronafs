@@ -37,9 +37,19 @@ DURATION:P0DT2H0M0S
 SUMMARY:PI e-ucilnica in GoTo https://global.gotomeeting.com/join/457793757
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20200324T073000
+DURATION:P0DT2H0M0S
+SUMMARY:LS GoTo: https://global.gotomeeting.com/join/211393573 podatki: https://drive.google.com/open?id=154c54-Evk4YgiVZKtRnI-Jd0V0W7JSWa
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20200324T080000
 DURATION:P0DT2H0M0S
 SUMMARY:PI e-ucilnica in GoTo https://global.gotomeeting.com/join/457793757
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200324T100000
+DURATION:P0DT2H0M0S
+SUMMARY:LS GoTo: https://global.gotomeeting.com/join/211393573 podatki: https://drive.google.com/open?id=154c54-Evk4YgiVZKtRnI-Jd0V0W7JSWa
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20200324T100000
@@ -50,5 +60,25 @@ BEGIN:VEVENT
 DTSTART:20200324T120000
 DURATION:P0DT2H0M0S
 SUMMARY:PI e-ucilnica in GoTo https://global.gotomeeting.com/join/457793757
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200324T130000
+DURATION:P0DT2H0M0S
+SUMMARY:LS GoTo: https://global.gotomeeting.com/join/211393573 podatki: https://drive.google.com/open?id=154c54-Evk4YgiVZKtRnI-Jd0V0W7JSWa
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200326T073000
+DURATION:P0DT2H0M0S
+SUMMARY:LS GoTo: https://global.gotomeeting.com/join/211393573 podatki: https://drive.google.com/open?id=154c54-Evk4YgiVZKtRnI-Jd0V0W7JSWa
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200326T100000
+DURATION:P0DT2H0M0S
+SUMMARY:LS GoTo: https://global.gotomeeting.com/join/211393573 podatki: https://drive.google.com/open?id=154c54-Evk4YgiVZKtRnI-Jd0V0W7JSWa
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200326T130000
+DURATION:P0DT2H0M0S
+SUMMARY:LS GoTo: https://global.gotomeeting.com/join/211393573 podatki: https://drive.google.com/open?id=154c54-Evk4YgiVZKtRnI-Jd0V0W7JSWa
 END:VEVENT
 END:VCALENDAR
