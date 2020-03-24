@@ -4,7 +4,7 @@ echo "## informacije za studij na FS v casu covid-19. aka VIS(un)link" > README.
 
 echo "ta site si prizadeva zdruziti informacije potrebe za studij na FS. " >> README.md
 echo >> README.md
-echo "trentno so potrebne informacije razprsene po svetovnem spletu in poizkusa centralizacije (se) ni" >> README.md
+echo "trentno so potrebne informacije razprsene po svetovnem spletu in poskusa centralizacije (se) ni" >> README.md
 
 
 
