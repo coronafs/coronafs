@@ -1,1 +1,4 @@
 ne uporabljat pravega imena/osebnih podatkov nikjer (tudi pod commit name/email)
+
+ne uporabljat git push --force
+

@@ -1,32 +1,24 @@
 
 # predavanja
-predavanja petek 10:00 po GoToMeetnig
-
-<https://global.gotomeeting.com/join/480267949>
-
+- preko GoToMeeting
+- petek 10:00
 
 # vaje
-vaje po GoToMeeting trenutno:
+- preko GoToMeeting
+- termini:
+	- torek  7:30
+	- torek 10:00
+	- torek 13:00
+	- cetrtek  7:30
+	- cetrtek 10:00
+	- cetrtek 13:00
 
-
-* Torek (17.3.) ob 7:30, ID: 669-223-069 \
-<https://global.gotomeeting.com/join/265548101>
-
-* Torek (17.3.) ob 10:00, ID: 165-072-181 \
-<https://global.gotomeeting.com/join/165072181>
-
-* Torek (17.3.) ob 13:00, ID: 271-508-813 \
-<https://global.gotomeeting.com/join/271508813>
-
-* Četrtek (19.3.) ob 7:30, ID: 521-447-261 \
-<https://global.gotomeeting.com/join/521447261>
-
-* Četrtek (19.3.) ob 10:00, ID: 992-466-253 \
-<https://global.gotomeeting.com/join/992466253>
-
-* Četrtek (19.3.) ob 13:00, ID: 669-223-069 \
-<https://global.gotomeeting.com/join/669223069>
+- potrebno oddajat **porocila**, lahko do 8 ljudi skupaj
 
 
 
-trenutno ni znano kaj je z porocili
+## 2. vaja
+- gradivo:
+
+	https://drive.google.com/open?id=154c54-Evk4YgiVZKtRnI-Jd0V0W7JSWa 
+

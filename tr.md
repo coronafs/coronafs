@@ -5,7 +5,8 @@
 - za vprasanja kontaktiraj kogarkoli razen profesorja
 
 # predavanja
-- predavanja ponedeljek ob 11:00
+- preko GoToMeeting
+- ponedeljek 11:00
 
 
 # vaje

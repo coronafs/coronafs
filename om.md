@@ -1,16 +1,14 @@
 # kolokvij
 
-verjetno bo, vrejetno elektronsko
+- verjetno bo, vrejetno elektronsko
 
 # predavanja 
-predavanja ponedenjek 8:00
+- preko GoToMeeting
+- predavanja ponedenjek 8:00
 
 # vaje
-vaje po GoToMeetnig. 
-
-<https://global.gotomeeting.com/join/431510037>
-
-laboratorijske vaje z pomocjo simulatorjev:
-* http://www.falstad.com/circuit/ - lep simulator 
-* https://www.tinkercad.com/circuits - autodesk proprietary garbage
+- preko GoToMeetnig. 
+- laboratorijske vaje z pomocjo simulatorjev:
+	- http://www.falstad.com/circuit/ - lep simulator osnovne analogne elektronike
+	- https://www.tinkercad.com/circuits - autodesk proprietary software
 

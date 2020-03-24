@@ -1,10 +1,11 @@
 
 # predavanja 
-
-predavanja sreda ob 11:00
-https://global.gotomeeting.com/join/981234981
+- preko	GoToMeeting
+- predavanja sreda ob 11:00
 
 # vaje 
 
-trentuno ni znano
+- preko GoToMeeting in **moodle**:
+
+	https://e-ucilnica.fs.uni-lj.si
 
