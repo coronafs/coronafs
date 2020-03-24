@@ -1,3 +1,7 @@
+# kolokvij
+
+verjetno bo, vrejetno elektronsko
+
 # predavanja 
 predavanja ponedenjek 8:00
 
