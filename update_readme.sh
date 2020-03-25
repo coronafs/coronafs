@@ -5,6 +5,8 @@ echo "## informacije za studij na FS v casu covid-19. aka VIS(un)link" > README.
 echo "ta site si prizadeva zdruziti informacije potrebe za studij na FS. " >> README.md
 echo >> README.md
 echo "trentno so potrebne informacije razprsene po svetovnem spletu in poskusa centralizacije (se) ni" >> README.md
+echo >> README.md
+echo "ce hoces kaj dodati preberi CONTRIBUTING" >> README.md
 
 
 
@@ -24,8 +26,8 @@ echo "LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FR
 echo "OUT OF OR IN CONNECTION WITH THE FILES OR THE USE OR OTHER DEALINGS WITH THE FILES." >> README.md
 
 if [ "$#" -eq 1 ]; then
-	git add README.md
-	git commit -m "update-an README.md z dogodki naslednijih 7dni"
+	git add README.md fs.ical
+	git commit
 	git push
 fi
 

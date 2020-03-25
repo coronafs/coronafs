@@ -2,3 +2,7 @@ ne uporabljat pravega imena/osebnih podatkov nikjer (tudi pod commit name/email)
 
 ne uporabljat git push --force
 
+ne urejat README.md direktno
+za dodajanje stvari v urnik dodaj termine v fs.ical (icalendar file)
+potem pa z update_readme.sh generiras README.md (potrebujes calcurse)
+
