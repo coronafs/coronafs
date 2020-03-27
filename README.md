@@ -1,20 +1,12 @@
-## informacije za studij na FS v casu covid-19. aka VIS(un)link
-ta site si prizadeva zdruziti informacije potrebe za studij na FS. 
+## informacije za študiji na FS v času covid-19. aka VIS(un)link
+ta site si prizadeva združiti informacije potrebe za študiji na FS. 
 
-trentno so potrebne informacije razprsene po svetovnem spletu in poskusa centralizacije (se) ni
+trenutno so potrebne informacije razpršene po svetovnem spletu in poskusa centralizacije (še) ni
 
-ce hoces kaj dodati preberi CONTRIBUTING
+če hočeš kaj dodati preberi CONTRIBUTING
 
 # naslednjih 7dni
-updated: 2020-03-26 21:50:33
-
-Thursday 26/03/20:
- - 07:30 -> 09:30
-	LS GoTo: https://global.gotomeeting.com/join/211393573 podatki: https://drive.google.com/open?id=154c54-Evk4YgiVZKtRnI-Jd0V0W7JSWa
- - 10:00 -> 12:00
-	LS GoTo: https://global.gotomeeting.com/join/211393573 podatki: https://drive.google.com/open?id=154c54-Evk4YgiVZKtRnI-Jd0V0W7JSWa
- - 13:00 -> 15:00
-	LS GoTo: https://global.gotomeeting.com/join/211393573 podatki: https://drive.google.com/open?id=154c54-Evk4YgiVZKtRnI-Jd0V0W7JSWa
+updated: 2020-03-27 01:04:03
 
 Friday 27/03/20:
  - 10:00 -> 11:30
