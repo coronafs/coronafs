@@ -9,11 +9,11 @@
 	- torek  7:30
 	- torek 10:00
 	- torek 13:00
-	- cetrtek  7:30
-	- cetrtek 10:00
-	- cetrtek 13:00
+	- četrtek  7:30
+	- četrtek 10:00
+	- četrtek 13:00
 
-- potrebno oddajat **porocila**, lahko do 8 ljudi skupaj
+- potrebno oddajat **poročila**, lahko do 8 ljudi skupaj
 
 
 

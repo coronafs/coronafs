@@ -1,12 +1,12 @@
 #!/bin/sh
 
-echo "## informacije za studij na FS v casu covid-19. aka VIS(un)link" > README.md
+echo "## informacije za študiji na FS v času covid-19. aka VIS(un)link" > README.md
 
-echo "ta site si prizadeva zdruziti informacije potrebe za studij na FS. " >> README.md
+echo "ta site si prizadeva združiti informacije potrebe za študiji na FS. " >> README.md
 echo >> README.md
-echo "trentno so potrebne informacije razprsene po svetovnem spletu in poskusa centralizacije (se) ni" >> README.md
+echo "trenutno so potrebne informacije razpršene po svetovnem spletu in poskusa centralizacije (še) ni" >> README.md
 echo >> README.md
-echo "ce hoces kaj dodati preberi CONTRIBUTING" >> README.md
+echo "če hočeš kaj dodati preberi CONTRIBUTING" >> README.md
 
 
 
