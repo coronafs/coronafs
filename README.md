@@ -6,11 +6,11 @@ trenutno so potrebne informacije razpršene po svetovnem spletu in poskusa centr
 če hočeš kaj dodati preberi CONTRIBUTING
 
 # naslednjih 7dni
-updated: 2020-03-27 01:04:03
+updated: 2020-03-29 16:20:00
 
-Friday 27/03/20:
- - 10:00 -> 11:30
-	LS https://global.gotomeeting.com/join/509108261
+Monday 30/03/20:
+ - 08:00 -> 09:30
+	OM + priprava lab vaje https://global.gotomeeting.com/join/731673333
 ## Licenca
 THIS FILES PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
