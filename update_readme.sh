@@ -7,7 +7,8 @@ echo >> README.md
 echo "trenutno so potrebne informacije razpršene po svetovnem spletu in poskusa centralizacije (še) ni" >> README.md
 echo >> README.md
 echo "če hočeš kaj dodati preberi CONTRIBUTING" >> README.md
-
+echo >> README.md
+echo "posnetki predavanj https://drive.google.com/open?id=1IRr_VypWnkjKROawaqUm3SdmUvIXlyR4" >> README.md
 
 
 echo >> README.md
