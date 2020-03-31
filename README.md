@@ -8,7 +8,7 @@ trenutno so potrebne informacije razpršene po svetovnem spletu in poskusa centr
 posnetki predavanj https://drive.google.com/open?id=1IRr_VypWnkjKROawaqUm3SdmUvIXlyR4
 
 # naslednjih 7dni
-updated: 2020-03-31 09:14:27
+updated: 2020-03-31 10:29:59
 
 Tuesday 31/03/20:
  - 07:30 -> 09:30
@@ -33,6 +33,7 @@ Thursday 02/04/20:
 	OM lab https://global.gotomeeting.com/join/122739893 gradivo: https://docs.google.com/spreadsheets/d/1sTFNplhjLmjV15m8DQhfzzb-rrA6LwouaO2JWHGyzgI/edit?usp=sharing
  - 13:00 -> 15:00
 	LS vaje https://global.gotomeeting.com/join/953053421
+
 ## Licenca
 THIS FILES PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
