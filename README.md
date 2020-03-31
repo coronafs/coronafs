@@ -3,26 +3,36 @@ ta site si prizadeva združiti informacije potrebe za študiji na FS.
 
 trenutno so potrebne informacije razpršene po svetovnem spletu in poskusa centralizacije (še) ni
 
-če hočeš kaj dodati preberi CONTRIBUTING
+če hočeš kaj dodati preberi CONTRIBUTING.md
 
 posnetki predavanj https://drive.google.com/open?id=1IRr_VypWnkjKROawaqUm3SdmUvIXlyR4
 
 # naslednjih 7dni
-updated: 2020-03-31 10:29:59
+updated: 2020-03-31 13:58:45
 
 Tuesday 31/03/20:
  - 07:30 -> 09:30
 	LS vaje https://global.gotomeeting.com/join/953053421
- - 08:00 -> 10:00
+ - 07:30 -> 09:00
+	PI e-ucilnica in GoTo https://global.gotomeeting.com/join/457793757
+ - 09:00 -> 10:30
 	PI e-ucilnica in GoTo https://global.gotomeeting.com/join/457793757
  - 10:00 -> 12:00
 	LS vaje https://global.gotomeeting.com/join/953053421
- - 10:00 -> 12:00
+ - 11:30 -> 13:00
 	PI e-ucilnica in GoTo https://global.gotomeeting.com/join/457793757
- - 12:00 -> 14:00
-	PI e-ucilnica in GoTo https://global.gotomeeting.com/join/457793757
- - 13:00 -> 15:00
+ - 13:00 -> 14:30
 	LS vaje https://global.gotomeeting.com/join/953053421
+ - 15:00 -> 16:30
+	PI e-ucilnica in GoTo https://global.gotomeeting.com/join/457793757
+
+Wednesday 01/04/20:
+ - 07:30 -> 09:00
+	PI e-ucilnica in GoTo https://global.gotomeeting.com/join/457793757
+ - 09:00 -> 10:30
+	PI e-ucilnica in GoTo https://global.gotomeeting.com/join/457793757
+ - 14:30 -> 16:00
+	PI e-ucilnica in GoTo https://global.gotomeeting.com/join/457793757
 
 Thursday 02/04/20:
  - 07:30 -> 09:30
