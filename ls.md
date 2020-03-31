@@ -16,9 +16,7 @@
 - potrebno oddajat **poročila**, lahko do 8 ljudi skupaj
 
 
-
-## 2. vaja
-- gradivo:
-
-	https://drive.google.com/open?id=154c54-Evk4YgiVZKtRnI-Jd0V0W7JSWa 
+# gradivo:
+- za 2. in 3. vajo
+	- https://drive.google.com/open?id=154c54-Evk4YgiVZKtRnI-Jd0V0W7JSWa 
 
