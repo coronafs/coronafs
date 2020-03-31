@@ -8,7 +8,7 @@ trenutno so potrebne informacije razpršene po svetovnem spletu in poskusa centr
 posnetki predavanj https://drive.google.com/open?id=1IRr_VypWnkjKROawaqUm3SdmUvIXlyR4
 
 # naslednjih 7dni
-updated: 2020-03-31 13:58:45
+updated: 2020-03-31 16:04:45
 
 Tuesday 31/03/20:
  - 07:30 -> 09:30
@@ -24,13 +24,19 @@ Tuesday 31/03/20:
  - 13:00 -> 14:30
 	LS vaje https://global.gotomeeting.com/join/953053421
  - 15:00 -> 16:30
+	MK3 embalaza https://global.gotomeeting.com/join/579016605
+ - 15:00 -> 16:30
 	PI e-ucilnica in GoTo https://global.gotomeeting.com/join/457793757
+ - 16:30 -> 18:00
+	MK4 embalaza https://global.gotomeeting.com/join/757295093
 
 Wednesday 01/04/20:
  - 07:30 -> 09:00
 	PI e-ucilnica in GoTo https://global.gotomeeting.com/join/457793757
  - 09:00 -> 10:30
 	PI e-ucilnica in GoTo https://global.gotomeeting.com/join/457793757
+ - 10:50 -> 12:40
+	PI pred https://global.gotomeeting.com/join/937059173
  - 14:30 -> 16:00
 	PI e-ucilnica in GoTo https://global.gotomeeting.com/join/457793757
 
