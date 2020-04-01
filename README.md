@@ -8,7 +8,7 @@ trenutno so potrebne informacije razpršene po svetovnem spletu in poskusa centr
 posnetki predavanj https://drive.google.com/open?id=1IRr_VypWnkjKROawaqUm3SdmUvIXlyR4
 
 # naslednjih 7dni
-updated: 2020-04-01 14:12:19
+updated: 2020-04-01 19:46:20
 
 Wednesday 01/04/20:
  - 07:30 -> 09:00
@@ -21,6 +21,8 @@ Wednesday 01/04/20:
 	MK pred https://global.gotomeeting.com/join/143063325
  - 14:30 -> 16:00
 	PI e-ucilnica in GoTo https://global.gotomeeting.com/join/457793757
+ - 20:00 -> 20:30
+	PI testni kolokvij https://global.gotomeeting.com/join/597896501
 
 Thursday 02/04/20:
  - 07:30 -> 09:30
