@@ -8,27 +8,7 @@ trenutno so potrebne informacije razpršene po svetovnem spletu in poskusa centr
 posnetki predavanj https://drive.google.com/open?id=1IRr_VypWnkjKROawaqUm3SdmUvIXlyR4
 
 # naslednjih 7dni
-updated: 2020-03-31 16:04:45
-
-Tuesday 31/03/20:
- - 07:30 -> 09:30
-	LS vaje https://global.gotomeeting.com/join/953053421
- - 07:30 -> 09:00
-	PI e-ucilnica in GoTo https://global.gotomeeting.com/join/457793757
- - 09:00 -> 10:30
-	PI e-ucilnica in GoTo https://global.gotomeeting.com/join/457793757
- - 10:00 -> 12:00
-	LS vaje https://global.gotomeeting.com/join/953053421
- - 11:30 -> 13:00
-	PI e-ucilnica in GoTo https://global.gotomeeting.com/join/457793757
- - 13:00 -> 14:30
-	LS vaje https://global.gotomeeting.com/join/953053421
- - 15:00 -> 16:30
-	MK3 embalaza https://global.gotomeeting.com/join/579016605
- - 15:00 -> 16:30
-	PI e-ucilnica in GoTo https://global.gotomeeting.com/join/457793757
- - 16:30 -> 18:00
-	MK4 embalaza https://global.gotomeeting.com/join/757295093
+updated: 2020-04-01 14:12:19
 
 Wednesday 01/04/20:
  - 07:30 -> 09:00
@@ -37,6 +17,8 @@ Wednesday 01/04/20:
 	PI e-ucilnica in GoTo https://global.gotomeeting.com/join/457793757
  - 10:50 -> 12:40
 	PI pred https://global.gotomeeting.com/join/937059173
+ - 13:15 -> 15:15
+	MK pred https://global.gotomeeting.com/join/143063325
  - 14:30 -> 16:00
 	PI e-ucilnica in GoTo https://global.gotomeeting.com/join/457793757
 
@@ -49,6 +31,10 @@ Thursday 02/04/20:
 	OM lab https://global.gotomeeting.com/join/122739893 gradivo: https://docs.google.com/spreadsheets/d/1sTFNplhjLmjV15m8DQhfzzb-rrA6LwouaO2JWHGyzgI/edit?usp=sharing
  - 13:00 -> 15:00
 	LS vaje https://global.gotomeeting.com/join/953053421
+
+Friday 03/04/20:
+ - 10:00 -> 11:30
+	LS pred https://global.gotomeeting.com/join/329565405
 
 ## Licenca
 THIS FILES PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR

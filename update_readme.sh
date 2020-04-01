@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # update fs.ical
-calcurse --calendar "./apts" -x > "./fs.ical"
+calcurse --calendar "./apts" -x > fs.ical
 
 # genearte README.md
 echo "## informacije za študiji na FS v času covid-19. aka VIS(un)link" > README.md
