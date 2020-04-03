@@ -30,7 +30,7 @@ echo "LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FR
 echo "OUT OF OR IN CONNECTION WITH THE FILES OR THE USE OR OTHER DEALINGS WITH THE FILES." >> README.md
 
 if [ "$#" -eq 1 ]; then
-	git add README.md fs.ical
+	git add apts README.md fs.ical
 	git commit
 	git push
 fi
