@@ -8,15 +8,11 @@ trenutno so potrebne informacije razpršene po svetovnem spletu in poskusa centr
 posnetki predavanj https://drive.google.com/open?id=1IRr_VypWnkjKROawaqUm3SdmUvIXlyR4
 
 # naslednjih 7dni
-updated: 2020-04-03 16:04:20
-
-Friday 03/04/20:
- - 10:00 -> 11:30
-	LS pred https://global.gotomeeting.com/join/329565405
+updated: 2020-04-04 17:51:51
 
 Monday 06/04/20:
  - 08:00 -> 10:30
-	OM pred https://global.gotomeeting.com/join/297351341
+	OM pred https://youtu.be/0AdcCyeFlfk
 
 Wednesday 08/04/20:
  - 10:50 -> 12:50
