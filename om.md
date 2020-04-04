@@ -3,7 +3,7 @@
 - verjetno bo, verjetno elektronsko
 
 # predavanja 
-- preko GoToMeeting
+- preko GoToMeeting in youtube live
 - predavanja ponedeljek 8:00
 
 # vaje
