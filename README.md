@@ -2,41 +2,48 @@
 - ta site si prizadeva združiti informacije potrebe za študiji na FS. 
 - trenutno so potrebne informacije razpršene po svetovnem spletu in poskusa centralizacije (še) ni
 - posnetki predavanj https://drive.google.com/open?id=1IRr_VypWnkjKROawaqUm3SdmUvIXlyR4
-- če hočeš ta koledar importirati v svoj koledar je na voljo `fs.ical`
 - če hočeš kaj dodati preberi CONTRIBUTING.md
+# ta teden na sporedu:
+updated: 2020-04-06 22:31:36
 
-# naslednjih 7dni
-updated: 2020-04-06 20:32:41
+## linki:
+- ls_pred_link: https://global.gotomeeting.com/join/353416765
+- ls_vaje_link: https://global.gotomeeting.com/join/373099509
+- mk_pred_link: https://global.gotomeeting.com/join/143063325
+- mk_vaje_link: 
+- om_pred_link: https://youtu.be/0AdcCyeFlfk
+- om_vaje_link: https://global.gotomeeting.com/join/122739893
+- pi_pred_link: https://global.gotomeeting.com/join/496606829
+- pi_vaje_link: https://global.gotomeeting.com/join/457793757
+- tr_pred_link: https://global.gotomeeting.com/join/593007621
 
-Monday 06/04/20:
- - 08:00 -> 10:30
-	OM pred https://youtu.be/0AdcCyeFlfk
- - 11:00 -> 12:30
-	TR https://global.gotomeeting.com/join/593007621
-
-Tuesday 07/04/20:
- - 07:30 -> 09:30
-	LS vaje https://global.gotomeeting.com/join/373099509
- - 10:00 -> 12:00
-	LS vaje https://global.gotomeeting.com/join/373099509
- - 13:00 -> 14:30
-	LS vaje https://global.gotomeeting.com/join/373099509
-
-Wednesday 08/04/20:
- - 10:50 -> 12:50
-	PI pred https://global.gotomeeting.com/join/496606829
-
-Thursday 09/04/20:
- - 07:30 -> 09:30
-	LS vaje https://global.gotomeeting.com/join/373099509
- - 10:00 -> 12:00
-	LS vaje https://global.gotomeeting.com/join/373099509
- - 13:00 -> 15:00
-	LS vaje https://global.gotomeeting.com/join/373099509
-
-Friday 10/04/20:
- - 10:00 -> 11:30
-	LS pred https://global.gotomeeting.com/join/353416765
+## urnik:
+- PON
+	- 08:00 - 10:30 OM pred
+	- 07:30 - 09:00 PI vaje
+	- 09:00 - 10:30 PI vaje
+	- 13:00 - 14:30 PI vaje
+	- 15:00 - 16:30 PI vaje
+	- 17:00 - 18:30 PI vaje
+	- 11:00 - 12:30 TR vaje
+- TOR
+	- 07:30 - 09:30 LS vaje
+	- 10:00 - 12:00 LS vaje
+	- 13:00 - 14:30 LS vaje
+	- 07:30 - 09:00 PI vaje
+	- 09:00 - 10:30 PI vaje
+	- 13:30 - 14:30 PI vaje
+	- 15:00 - 16:30 PI vaje
+- SRE
+	- 13:15 - 15:15 MK pred
+	- 10:50 - 12:40 PI pred
+- CET
+	- 07:30 - 09:30 LS vaje
+	- 10:00 - 12:00 LS vaje
+	- 13:00 - 14:30 LS vaje
+	- 11:00 - 14:00 OM vaje
+- PET
+	- 10:00 - 11:30 LS pred
 
 ## Licenca
 THIS FILES PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
