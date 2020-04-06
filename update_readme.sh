@@ -5,15 +5,13 @@ calcurse --calendar "./apts" -x > fs.ical
 
 # genearte README.md
 echo "## informacije za študiji na FS v času covid-19. aka VIS(un)link" > README.md
-echo "ta site si prizadeva združiti informacije potrebe za študiji na FS. " >> README.md
+echo "- ta site si prizadeva združiti informacije potrebe za študiji na FS. " >> README.md
+echo "- trenutno so potrebne informacije razpršene po svetovnem spletu in poskusa centralizacije (še) ni" >> README.md
+echo "- posnetki predavanj https://drive.google.com/open?id=1IRr_VypWnkjKROawaqUm3SdmUvIXlyR4" >> README.md
+echo "- če hočeš ta koledar importirati v svoj koledar je na voljo \`fs.ical\`" >> README.md
+echo "- če hočeš kaj dodati preberi CONTRIBUTING.md" >> README.md
 echo >> README.md
-echo "trenutno so potrebne informacije razpršene po svetovnem spletu in poskusa centralizacije (še) ni" >> README.md
-echo >> README.md
-echo "če hočeš kaj dodati preberi CONTRIBUTING.md" >> README.md
-echo >> README.md
-echo "posnetki predavanj https://drive.google.com/open?id=1IRr_VypWnkjKROawaqUm3SdmUvIXlyR4" >> README.md
 
-echo >> README.md
 echo "# naslednjih 7dni" >> README.md
 echo "updated: $(date '+%Y-%m-%d %H:%M:%S')" >> README.md
 echo >> README.md
