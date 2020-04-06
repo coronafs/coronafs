@@ -5,6 +5,7 @@
 
 # vaje
 - preko GoToMeeting
+- po prijavi na GoToMeeting **obvezno v chat poslji** `prisoten` (tudi če se pridružite kasneje).
 - termini:
 	- torek  7:30
 	- torek 10:00
@@ -14,9 +15,13 @@
 	- četrtek 13:00
 
 - potrebno oddajat **poročila**, lahko do 8 ljudi skupaj
+- porocila morajo biti v `.pdf` obliki z imenom `LVx_priimek.pdf`
 
 
 # gradivo:
-- za 2. in 3. vajo
-	- https://drive.google.com/open?id=154c54-Evk4YgiVZKtRnI-Jd0V0W7JSWa 
+### 2. in 3. vaja
+- https://drive.google.com/open?id=154c54-Evk4YgiVZKtRnI-Jd0V0W7JSWa
+
+### 4. lab vaja
+- https://drive.google.com/open?id=1siUGE1YWOzhJq_z6ADhrkUszpDhcFwwR
 
