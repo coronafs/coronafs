@@ -4,47 +4,54 @@
 - posnetki predavanj https://drive.google.com/open?id=1IRr_VypWnkjKROawaqUm3SdmUvIXlyR4
 - če hočeš kaj dodati preberi CONTRIBUTING.md
 # ta teden na sporedu:
-updated: 2020-04-06 22:31:36
+updated: 2020-04-07 02:36:33
 
-## linki:
-- ls_pred_link: https://global.gotomeeting.com/join/353416765
-- ls_vaje_link: https://global.gotomeeting.com/join/373099509
-- mk_pred_link: https://global.gotomeeting.com/join/143063325
-- mk_vaje_link: 
-- om_pred_link: https://youtu.be/0AdcCyeFlfk
-- om_vaje_link: https://global.gotomeeting.com/join/122739893
-- pi_pred_link: https://global.gotomeeting.com/join/496606829
-- pi_vaje_link: https://global.gotomeeting.com/join/457793757
-- tr_pred_link: https://global.gotomeeting.com/join/593007621
-
-## urnik:
+## samo linki:
+- LS pred: https://global.gotomeeting.com/join/353416765
+- LS vaje: https://global.gotomeeting.com/join/373099509
+- MK pred: https://global.gotomeeting.com/join/143063325
+- OM pred: https://youtu.be/0AdcCyeFlfk
+- OM vaje: https://global.gotomeeting.com/join/122739893
+- PI pred: https://global.gotomeeting.com/join/496606829
+- PI vaje: https://global.gotomeeting.com/join/457793757
+- TR pred: https://global.gotomeeting.com/join/593007621
+## cel urnik:
 - PON
-	- 08:00 - 10:30 OM pred
-	- 07:30 - 09:00 PI vaje
-	- 09:00 - 10:30 PI vaje
-	- 13:00 - 14:30 PI vaje
-	- 15:00 - 16:30 PI vaje
-	- 17:00 - 18:30 PI vaje
-	- 11:00 - 12:30 TR vaje
+	- OM pred: https://youtu.be/0AdcCyeFlfk
+		- 08:00 - 10:30
+	- PI pred: https://global.gotomeeting.com/join/496606829
+		- 10:50 - 12:40
+	- PI vaje: https://global.gotomeeting.com/join/457793757
+		- 07:30 - 09:00
+		- 09:00 - 10:30
+		- 13:00 - 14:30
+		- 15:00 - 16:30
+		- 17:00 - 18:30
+	- TR pred: https://global.gotomeeting.com/join/593007621
+		- 11:00 - 12:30
 - TOR
-	- 07:30 - 09:30 LS vaje
-	- 10:00 - 12:00 LS vaje
-	- 13:00 - 14:30 LS vaje
-	- 07:30 - 09:00 PI vaje
-	- 09:00 - 10:30 PI vaje
-	- 13:30 - 14:30 PI vaje
-	- 15:00 - 16:30 PI vaje
+	- LS vaje: https://global.gotomeeting.com/join/373099509
+		- 07:30 - 09:30
+		- 10:00 - 12:00
+		- 13:00 - 14:30
+	- PI vaje: https://global.gotomeeting.com/join/457793757
+		- 07:30 - 09:00
+		- 09:00 - 10:30
+		- 13:30 - 14:30
+		- 15:00 - 16:30
 - SRE
-	- 13:15 - 15:15 MK pred
-	- 10:50 - 12:40 PI pred
+	- MK pred: https://global.gotomeeting.com/join/143063325
+		- 13:15 - 15:15
 - CET
-	- 07:30 - 09:30 LS vaje
-	- 10:00 - 12:00 LS vaje
-	- 13:00 - 14:30 LS vaje
-	- 11:00 - 14:00 OM vaje
+	- LS vaje: https://global.gotomeeting.com/join/373099509
+		- 07:30 - 09:30
+		- 10:00 - 12:00
+		- 13:00 - 14:30
+	- OM vaje: https://global.gotomeeting.com/join/122739893
+		- 11:00 - 14:00
 - PET
-	- 10:00 - 11:30 LS pred
-
+	- LS pred: https://global.gotomeeting.com/join/353416765
+		- 10:00 - 11:30
 ## Licenca
 THIS FILES PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
