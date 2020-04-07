@@ -1,10 +1,10 @@
 ## informacije za študiji na FS v času covid-19. aka VIS(un)link
-- ta site si prizadeva združiti informacije potrebe za študiji na FS. 
+- ta stran si prizadeva združiti informacije za študiji na FS
 - trenutno so potrebne informacije razpršene po svetovnem spletu in poskusa centralizacije (še) ni
 - posnetki predavanj https://drive.google.com/open?id=1IRr_VypWnkjKROawaqUm3SdmUvIXlyR4
 - če hočeš kaj dodati preberi CONTRIBUTING.md
 # ta teden na sporedu:
-updated: 2020-04-07 02:36:33
+updated: 2020-04-07 12:34:49
 
 ## samo linki:
 - LS pred: https://global.gotomeeting.com/join/353416765
@@ -19,8 +19,6 @@ updated: 2020-04-07 02:36:33
 - PON
 	- OM pred: https://youtu.be/0AdcCyeFlfk
 		- 08:00 - 10:30
-	- PI pred: https://global.gotomeeting.com/join/496606829
-		- 10:50 - 12:40
 	- PI vaje: https://global.gotomeeting.com/join/457793757
 		- 07:30 - 09:00
 		- 09:00 - 10:30
@@ -42,6 +40,8 @@ updated: 2020-04-07 02:36:33
 - SRE
 	- MK pred: https://global.gotomeeting.com/join/143063325
 		- 13:15 - 15:15
+	- PI pred: https://global.gotomeeting.com/join/496606829
+		- 10:50 - 12:40
 - CET
 	- LS vaje: https://global.gotomeeting.com/join/373099509
 		- 07:30 - 09:30

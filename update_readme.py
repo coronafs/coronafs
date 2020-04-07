@@ -55,7 +55,7 @@ om_vaje.append_event("CET", "11:00 - 14:00")
 # proizvodni inženirstvo
 pi_pred = Link("PI pred")
 pi_pred.set_link("https://global.gotomeeting.com/join/496606829")
-pi_pred.append_event("PON", "10:50 - 12:40")
+pi_pred.append_event("SRE", "10:50 - 12:40")
 
 pi_vaje = Link("PI vaje")
 pi_vaje.set_link("https://global.gotomeeting.com/join/457793757")
@@ -78,7 +78,7 @@ tr_pred.append_event("PON", "11:00 - 12:30")
 
 with open("README.md", 'w') as f:
     f.write("## informacije za študiji na FS v času covid-19. aka VIS(un)link\n")
-    f.write("- ta site si prizadeva združiti informacije potrebe za študiji na FS. \n")
+    f.write("- ta stran si prizadeva združiti informacije za študiji na FS\n")
     f.write("- trenutno so potrebne informacije razpršene po svetovnem spletu in poskusa centralizacije (še) ni\n")
     f.write("- posnetki predavanj https://drive.google.com/open?id=1IRr_VypWnkjKROawaqUm3SdmUvIXlyR4\n")
     f.write("- če hočeš kaj dodati preberi CONTRIBUTING.md\n")
