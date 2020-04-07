@@ -41,6 +41,18 @@ mk_pred = Link("MK pred")
 mk_pred.set_link("https://global.gotomeeting.com/join/143063325")
 mk_pred.append_event("SRE", "13:15 - 15:15")
 
+mk1_emba = Link("MK vaje emabalaza 1")
+mk1_emba.set_link("https://global.gotomeeting.com/join/229719629")
+mk1_emba.append_event("TOR", "09:30 - 11:00")
+
+mk3_emba = Link("MK vaje emabalaza 3")
+mk3_emba.set_link("https://global.gotomeeting.com/join/579016605")
+mk3_emba.append_event("TOR", "15:00 - 16:30")
+
+mk4_emba = Link("MK vaje emabalaza 4")
+mk4_emba.set_link("https://global.gotomeeting.com/join/757295093")
+mk4_emba.append_event("TOR", "16:30 - 18:00")
+
 
 # osnove mehatronike
 om_pred = Link("OM pred")
