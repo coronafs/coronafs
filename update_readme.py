@@ -38,7 +38,7 @@ ls_vaje.append_event("CET", "13:00 - 14:30")
 
 # metodika konstruiranja
 mk_pred = Link("MK pred")
-mk_pred.set_link("https://global.gotomeeting.com/join/143063325")
+mk_pred.set_link("https://global.gotomeeting.com/join/723984397")
 mk_pred.append_event("SRE", "13:15 - 15:15")
 
 mk1_emba = Link("MK vaje emabalaza 1")
