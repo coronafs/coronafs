@@ -4,10 +4,8 @@
 
 - `23.03.2020`
 	- [x] HP Hidravlika in pnevmatika
-- `10.04.2020`
-	- [ ] DF Dinamika fluidov
 - `14.04.2020`
-	- [ ] PI Proizvodno inženirstvo
+	- [ ] PI Proizvodno inženirstvo ob `20:15`
 - `17.04.2020`
 	- [ ] LS Laserski sistemi
 - `21.04.2020`

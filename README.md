@@ -4,7 +4,7 @@
 - posnetki predavanj https://drive.google.com/open?id=1IRr_VypWnkjKROawaqUm3SdmUvIXlyR4
 - če hočeš kaj dodati preberi CONTRIBUTING.md
 # ta teden na sporedu:
-updated: 2020-04-08 12:49:11
+updated: 2020-04-10 19:57:24
 
 ## samo linki:
 - LS pred: https://global.gotomeeting.com/join/353416765
