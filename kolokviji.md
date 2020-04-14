@@ -4,7 +4,7 @@
 
 - `23.03.2020`
 	- [x] HP Hidravlika in pnevmatika
-- `14.04.2020`
+- `15.04.2020`
 	- [ ] PI Proizvodno inženirstvo ob `20:15`
 - `17.04.2020`
 	- [ ] LS Laserski sistemi
