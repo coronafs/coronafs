@@ -66,7 +66,7 @@ om_vaje.append_event("CET", "11:00 - 14:00")
 
 # proizvodni inženirstvo
 pi_pred = Link("PI pred")
-pi_pred.set_link("https://global.gotomeeting.com/join/496606829")
+pi_pred.set_link("https://global.gotomeeting.com/join/487199109")
 pi_pred.append_event("SRE", "10:50 - 12:40")
 
 pi_vaje = Link("PI vaje")
