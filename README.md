@@ -3,6 +3,10 @@
 - trenutno so potrebne informacije razpršene po svetovnem spletu in poskusa centralizacije (še) ni
 - posnetki predavanj https://drive.google.com/open?id=1IRr_VypWnkjKROawaqUm3SdmUvIXlyR4
 - če hočeš kaj dodati preberi CONTRIBUTING.md
+
+# danasnji kolokviji:
+- **PI ob `20:15`. official tech support: https://global.gotomeeting.com/join/287547253**
+
 # ta teden na sporedu:
 updated: 2020-04-14 09:02:14
 
