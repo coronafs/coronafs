@@ -3,14 +3,15 @@
 - trenutno so potrebne informacije razpršene po svetovnem spletu in poskusa centralizacije (še) ni
 - posnetki predavanj https://drive.google.com/open?id=1IRr_VypWnkjKROawaqUm3SdmUvIXlyR4
 - če hočeš kaj dodati preberi CONTRIBUTING.md
-# ta teden na sporedu:
-updated: 2020-04-15 12:17:01
 
 # danasnji kolokviji:
 - **PI ob `20:15`. official tech support: https://global.gotomeeting.com/join/287547253**
 
+# ta teden na sporedu:
+updated: 2020-04-15 16:01:31
+
 ## samo linki:
-- LS pred: https://global.gotomeeting.com/join/353416765
+- LS pred: https://global.gotomeeting.com/join/809101509
 - LS vaje: https://global.gotomeeting.com/join/746234037
 - MK pred: https://global.gotomeeting.com/join/920073285
 - MK vaje emabalaza 1: https://global.gotomeeting.com/join/229719629
@@ -62,7 +63,7 @@ updated: 2020-04-15 12:17:01
 	- OM vaje: https://global.gotomeeting.com/join/122739893
 		- 11:00 - 14:00
 - PET
-	- LS pred: https://global.gotomeeting.com/join/353416765
+	- LS pred: https://global.gotomeeting.com/join/809101509
 		- 10:00 - 11:30
 ## Licenca
 THIS FILES PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
