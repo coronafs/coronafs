@@ -5,14 +5,14 @@
 - `23.03.2020`
 	- [x] HP Hidravlika in pnevmatika
 - `15.04.2020`
-	- [ ] PI Proizvodno inženirstvo ob `20:15`
+	- [x] PI Proizvodno inženirstvo ob `20:15`
 - `17.04.2020`
 	- [ ] LS Laserski sistemi
+	- [ ] TA Tehnična akustika
 - `21.04.2020`
-	- [ ] TR Tribologija
+	- [ ] TR Tribologija (se ne bo izvajalo)
 - `24.04.2020`
 	- [ ] OM Osnove mehatronike
-	- [ ] TA Tehnična akustika
 - `30.04.2020`
 	- [ ] MK Metodika konstruiranja
 
