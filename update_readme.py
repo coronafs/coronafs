@@ -69,6 +69,9 @@ pi_pred = Link("PI pred")
 pi_pred.set_link("https://global.gotomeeting.com/join/487199109")
 pi_pred.append_event("SRE", "10:50 - 12:40")
 
+pi_vaje_hisa = Link("PI hisa kakovosti")
+pi_vaje_hisa.set_link("https://global.gotomeeting.com/join/768194821")
+
 pi_vaje = Link("PI vaje")
 pi_vaje.set_link("https://global.gotomeeting.com/join/457793757")
 pi_vaje.append_event("PON", "07:30 - 09:00")
