@@ -8,7 +8,7 @@
 	- [x] PI Proizvodno inženirstvo ob `20:15`
 - `17.04.2020`
 	- [x] LS Laserski sistemi
-	- [x] TA Tehnična akustika
+	- [x] TA Tehnična akustika (se ni izvajalo)
 - `21.04.2020`
 	- [ ] TR Tribologija (se ne bo izvajalo)
 - `24.04.2020`
