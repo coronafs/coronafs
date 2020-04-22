@@ -4,12 +4,12 @@
 - posnetki predavanj https://drive.google.com/open?id=1IRr_VypWnkjKROawaqUm3SdmUvIXlyR4
 - če hočeš kaj dodati preberi CONTRIBUTING.md
 # ta teden na sporedu:
-updated: 2020-04-21 11:48:02
+updated: 2020-04-22 12:48:24
 
 ## samo linki:
-- LS pred: https://global.gotomeeting.com/join/809101509
+- LS pred: https://global.gotomeeting.com/join/251984757
 - LS vaje: https://global.gotomeeting.com/join/708237717
-- MK pred: https://global.gotomeeting.com/join/920073285
+- MK pred: https://global.gotomeeting.com/join/193875837
 - MK vaje emabalaza 1: https://global.gotomeeting.com/join/229719629
 - MK vaje emabalaza 3: https://global.gotomeeting.com/join/579016605
 - MK vaje emabalaza 4: https://global.gotomeeting.com/join/757295093
@@ -48,8 +48,8 @@ updated: 2020-04-21 11:48:02
 		- 13:30 - 14:30
 		- 15:00 - 16:30
 - SRE
-	- MK pred: https://global.gotomeeting.com/join/920073285
-		- 13:30 - 15:30
+	- MK pred: https://global.gotomeeting.com/join/193875837
+		- 13:00 - 15:00
 	- PI pred: https://global.gotomeeting.com/join/312212581
 		- 10:50 - 12:40
 - CET
@@ -60,7 +60,7 @@ updated: 2020-04-21 11:48:02
 	- OM vaje: https://global.gotomeeting.com/join/122739893
 		- 11:00 - 14:00
 - PET
-	- LS pred: https://global.gotomeeting.com/join/809101509
+	- LS pred: https://global.gotomeeting.com/join/251984757
 		- 10:00 - 11:30
 ## Licenca
 THIS FILES PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
