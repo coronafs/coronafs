@@ -4,10 +4,7 @@
 - posnetki predavanj https://drive.google.com/open?id=1IRr_VypWnkjKROawaqUm3SdmUvIXlyR4
 - če hočeš kaj dodati preberi CONTRIBUTING.md
 # ta teden na sporedu:
-updated: 2020-04-23 10:17:36
-
-## todays special
-- OM kolokvij live support: https://app.gotomeeting.com/?meetingId=593909597
+updated: 2020-04-24 21:58:18
 
 ## samo linki:
 - LS pred: https://global.gotomeeting.com/join/251984757

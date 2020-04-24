@@ -8,13 +8,13 @@
 	- [x] PI Proizvodno inženirstvo ob `20:15`
 - `17.04.2020`
 	- [x] LS Laserski sistemi
-	- [x] TA Tehnična akustika (se ni izvajalo)
+	- TA Tehnična akustika (se ni izvajalo)
 - `21.04.2020`
-	- [ ] TR Tribologija (se ne bo izvajalo)
+	- TR Tribologija (se ne bo izvajalo)
 - `24.04.2020`
-	- [ ] OM Osnove mehatronike
+	- [x] OM Osnove mehatronike
 - `30.04.2020`
-	- [ ] MK Metodika konstruiranja
+	- [ ] MK Metodika konstruiranja (se ne bo izvajalo)
 
 ### 2. cikel:
 
