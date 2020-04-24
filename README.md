@@ -6,6 +6,9 @@
 # ta teden na sporedu:
 updated: 2020-04-23 10:17:36
 
+## todays special
+- OM kolokvij live support: https://app.gotomeeting.com/?meetingId=593909597
+
 ## samo linki:
 - LS pred: https://global.gotomeeting.com/join/251984757
 - LS vaje: https://global.gotomeeting.com/join/708237717
