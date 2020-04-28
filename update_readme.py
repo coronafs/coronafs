@@ -69,8 +69,8 @@ om_vaje_DC_motor.append_event("CET", "11:00 - 14:00")
 
 # proizvodni inženirstvo
 pi_pred = Link("PI pred")
-
-pi_pred.set_link("https://global.gotomeeting.com/join/312212581")
+ 
+pi_pred.set_link("https://global.gotomeeting.com/join/837042861")
 pi_pred.append_event("SRE", "10:50 - 12:40")
 
 pi_vaje_2del = Link("PI 2. lab SMED in FMEA")
