@@ -4,12 +4,12 @@
 - posnetki predavanj https://drive.google.com/open?id=1IRr_VypWnkjKROawaqUm3SdmUvIXlyR4
 - če hočeš kaj dodati preberi CONTRIBUTING.md
 # ta teden na sporedu:
-updated: 2020-04-28 22:20:35
+updated: 2020-04-29 11:38:18
 
 ## samo linki:
 - LS pred: https://global.gotomeeting.com/join/251984757
 - LS vaje: https://global.gotomeeting.com/join/708237717
-- MK pred: https://global.gotomeeting.com/join/193875837
+- MK pred: https://global.gotomeeting.com/join/824220333
 - MK vaje emabalaza 1: https://global.gotomeeting.com/join/229719629
 - MK vaje emabalaza 3: https://global.gotomeeting.com/join/579016605
 - MK vaje emabalaza 4: https://global.gotomeeting.com/join/757295093
@@ -20,6 +20,7 @@ updated: 2020-04-28 22:20:35
 - PI 2. lab SMED in FMEA: https://global.gotomeeting.com/join/768194821
 - PI vaje: https://global.gotomeeting.com/join/457793757
 - TR pred: https://global.gotomeeting.com/join/593007621
+
 ## cel urnik:
 - PON
 	- OM pred: https://youtu.be/3YK88gYaApk
@@ -49,8 +50,8 @@ updated: 2020-04-28 22:20:35
 		- 13:30 - 14:30
 		- 15:00 - 16:30
 - SRE
-	- MK pred: https://global.gotomeeting.com/join/193875837
-		- 13:00 - 15:00
+	- MK pred: https://global.gotomeeting.com/join/824220333
+		- 13:15 - 15:15
 	- PI pred: https://global.gotomeeting.com/join/837042861
 		- 10:50 - 12:40
 - CET
@@ -65,6 +66,7 @@ updated: 2020-04-28 22:20:35
 - PET
 	- LS pred: https://global.gotomeeting.com/join/251984757
 		- 10:00 - 11:30
+
 ## Licenca
 THIS FILES PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,

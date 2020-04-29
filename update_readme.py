@@ -38,8 +38,8 @@ ls_vaje.append_event("CET", "13:00 - 14:30")
 
 # metodika konstruiranja
 mk_pred = Link("MK pred")
-mk_pred.set_link("https://global.gotomeeting.com/join/193875837")
-mk_pred.append_event("SRE", "13:00 - 15:00")
+mk_pred.set_link("https://global.gotomeeting.com/join/824220333")
+mk_pred.append_event("SRE", "13:15 - 15:15")
 
 mk1_emba = Link("MK vaje emabalaza 1")
 mk1_emba.set_link("https://global.gotomeeting.com/join/229719629")
@@ -111,6 +111,8 @@ with open("README.md", 'w') as f:
     for instance in Link._registry:
         f.write ("- " + instance.ime + ": " + instance.link + "\n")
 
+    f.write("\n")
+
     f.write("## cel urnik:\n")
     for dan in ["PON", "TOR", "SRE", "CET", "PET"]:
         f.write("- " + dan + "\n")
@@ -121,6 +123,7 @@ with open("README.md", 'w') as f:
 
 
 
+    f.write("\n")
     f.write("## Licenca\n")
     f.write("THIS FILES PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\n")
     f.write("IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\n")
