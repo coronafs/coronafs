@@ -4,7 +4,7 @@
 - posnetki predavanj https://drive.google.com/open?id=1IRr_VypWnkjKROawaqUm3SdmUvIXlyR4
 - če hočeš kaj dodati preberi CONTRIBUTING.md
 # ta teden na sporedu:
-updated: 2020-05-05 07:39:36
+updated: 2020-05-05 14:10:04
 
 ## samo linki:
 - LS pred: https://global.gotomeeting.com/join/251984757
@@ -16,7 +16,7 @@ updated: 2020-05-05 07:39:36
 - OM pred: https://youtu.be/nWl_iTuqkZU
 - OM vaje: https://global.gotomeeting.com/join/122739893
 - OM vaje DC motor: https://global.gotomeeting.com/join/593909597
-- PI pred: https://global.gotomeeting.com/join/837042861
+- PI pred: https://global.gotomeeting.com/join/840973541
 - PI 2. lab SMED in FMEA: https://global.gotomeeting.com/join/768194821
 - PI vaje: https://global.gotomeeting.com/join/457793757
 - TR pred: https://global.gotomeeting.com/join/593007621
@@ -52,7 +52,7 @@ updated: 2020-05-05 07:39:36
 - SRE
 	- MK pred: https://global.gotomeeting.com/join/824220333
 		- 13:15 - 15:15
-	- PI pred: https://global.gotomeeting.com/join/837042861
+	- PI pred: https://global.gotomeeting.com/join/840973541
 		- 10:50 - 12:40
 - CET
 	- LS vaje: https://global.gotomeeting.com/join/949512661
