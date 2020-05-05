@@ -27,7 +27,7 @@ ls_pred.set_link("https://global.gotomeeting.com/join/251984757")
 ls_pred.append_event("PET", "10:00 - 11:30")
 
 ls_vaje = Link("LS vaje")
-ls_vaje.set_link("https://global.gotomeeting.com/join/708237717")
+ls_vaje.set_link("https://global.gotomeeting.com/join/949512661")
 ls_vaje.append_event("TOR", "07:30 - 09:30")
 ls_vaje.append_event("TOR", "10:00 - 12:00")
 ls_vaje.append_event("TOR", "13:00 - 14:30")

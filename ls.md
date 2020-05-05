@@ -30,3 +30,6 @@
 
 ### 6. lab vaja
 - https://drive.google.com/open?id=143xUhwEmvmfgETV_5-Q52AwQCj22KEk4 
+
+### 7. lab vaja
+- https://drive.google.com/open?id=1UlmoR_W05SX6sLF3JK0fX9q1XcmQBsQl
