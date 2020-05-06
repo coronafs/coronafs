@@ -4,10 +4,10 @@
 - posnetki predavanj https://drive.google.com/open?id=1IRr_VypWnkjKROawaqUm3SdmUvIXlyR4
 - če hočeš kaj dodati preberi CONTRIBUTING.md
 # ta teden na sporedu:
-updated: 2020-05-05 22:05:05
+updated: 2020-05-06 11:12:39
 
 ## samo linki:
-- LS pred: https://global.gotomeeting.com/join/251984757
+- LS pred: https://global.gotomeeting.com/join/938465245
 - LS vaje: https://global.gotomeeting.com/join/949512661
 - MK pred: https://global.gotomeeting.com/join/853987021
 - MK vaje emabalaza 1: https://global.gotomeeting.com/join/229719629
@@ -64,7 +64,7 @@ updated: 2020-05-05 22:05:05
 	- OM vaje DC motor: https://global.gotomeeting.com/join/593909597
 		- 11:00 - 14:00
 - PET
-	- LS pred: https://global.gotomeeting.com/join/251984757
+	- LS pred: https://global.gotomeeting.com/join/938465245
 		- 10:00 - 11:30
 
 ## Licenca
