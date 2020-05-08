@@ -19,7 +19,7 @@
 ### 2. cikel:
 
 - `06.05.2020`
-	- [ ] HP Hidravlika in pnevmatika
+	- [x] HP Hidravlika in pnevmatika
 - `15.05.2020`
 	- [ ] PI Proizvodno inženirstvo ob `18:00`
 - `18.05.2020`

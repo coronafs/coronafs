@@ -74,7 +74,7 @@ pi_pred.set_link("https://global.gotomeeting.com/join/840973541")
 pi_pred.append_event("SRE", "10:50 - 12:40")
 
 pi_vaje_2del = Link("PI 2. lab SMED in FMEA")
-pi_vaje_2del.set_link("https://global.gotomeeting.com/join/768194821")
+pi_vaje_2del.set_link("https://global.gotomeeting.com/join/365824213")
 
 pi_vaje = Link("PI vaje")
 pi_vaje.set_link("https://global.gotomeeting.com/join/457793757")
