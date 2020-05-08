@@ -63,9 +63,9 @@ om_vaje = Link("OM vaje")
 om_vaje.set_link("https://global.gotomeeting.com/join/122739893")
 om_vaje.append_event("CET", "11:00 - 14:00")
 
-om_vaje_DC_motor = Link("OM vaje DC motor")
-om_vaje_DC_motor.set_link("https://global.gotomeeting.com/join/593909597")
-om_vaje_DC_motor.append_event("CET", "11:00 - 14:00")
+om_vaje_PID = Link("OM vaje PID")
+om_vaje_PID.set_link("https://global.gotomeeting.com/join/593909597")
+om_vaje_PID.append_event("CET", "11:00 - 14:00")
 
 # proizvodni inženirstvo
 pi_pred = Link("PI pred")
