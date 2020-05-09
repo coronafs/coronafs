@@ -56,7 +56,7 @@ mk4_emba.append_event("TOR", "16:30 - 18:00")
 
 # osnove mehatronike
 om_pred = Link("OM pred")
-om_pred.set_link("https://youtu.be/nWl_iTuqkZU")
+om_pred.set_link("https://youtu.be/EfBGby8HzkQ")
 om_pred.append_event("PON", "08:00 - 10:30")
 
 om_vaje = Link("OM vaje")
