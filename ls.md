@@ -29,7 +29,11 @@
 - https://drive.google.com/open?id=1ouRXqPgJYHmSzpfKDg0CyDSGXZbGO3lA
 
 ### 6. lab vaja
-- https://drive.google.com/open?id=143xUhwEmvmfgETV_5-Q52AwQCj22KEk4 
+- https://drive.google.com/open?id=143xUhwEmvmfgETV_5-Q52AwQCj22KEk4
 
 ### 7. lab vaja
 - https://drive.google.com/open?id=1UlmoR_W05SX6sLF3JK0fX9q1XcmQBsQl
+
+### 8. lab vaja
+- https://drive.google.com/open?id=1mPJDuxxGrrJHtFsR8LQnx0KrM4oqnYb1
+
