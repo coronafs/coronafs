@@ -23,7 +23,7 @@ class Link:
 
 # laserski sistemi
 ls_pred = Link("LS pred")
-ls_pred.set_link("https://global.gotomeeting.com/join/938465245")
+ls_pred.set_link("https://global.gotomeeting.com/join/370091797")
 ls_pred.append_event("PET", "10:00 - 11:30")
 
 ls_vaje = Link("LS vaje")
@@ -38,7 +38,7 @@ ls_vaje.append_event("CET", "13:00 - 14:30")
 
 # metodika konstruiranja
 mk_pred = Link("MK pred")
-mk_pred.set_link("https://global.gotomeeting.com/join/853987021")
+mk_pred.set_link("https://global.gotomeeting.com/join/735010005")
 mk_pred.append_event("SRE", "13:15 - 15:15")
 
 mk1_emba = Link("MK vaje emabalaza 1")
