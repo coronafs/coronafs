@@ -37,3 +37,7 @@
 ### 8. lab vaja
 - https://drive.google.com/open?id=1mPJDuxxGrrJHtFsR8LQnx0KrM4oqnYb1
 
+### 9. lab vaja
+- Link za datoteke: https://osf.io/uangc/?view_only=143e350c2f27499b928e1a8f2840abd0
+- Pdf predloga: https://filesender.arnes.si/?s=download&token=26389cce-7d7d-49e7-b6d9-4fee513206ae
+

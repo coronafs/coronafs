@@ -31,7 +31,7 @@
 - `25.05.2020`
 	- [ ] LS Laserski sistemi
 - `29.05.2020`
-	- TR Tribologija (se ne bo izvajalo)
+	- TR Tribologija (se ne bo izvajalo) (izpit bo na fakulteti)
 - `02.06.2020`
 	- TR Tribologija vaje (se ne bo izvajalo)
 - `05.06.2020`
