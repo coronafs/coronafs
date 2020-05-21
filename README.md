@@ -4,11 +4,11 @@
 - posnetki predavanj https://drive.google.com/open?id=1IRr_VypWnkjKROawaqUm3SdmUvIXlyR4
 - če hočeš kaj dodati preberi CONTRIBUTING.md
 # ta teden na sporedu:
-updated: 2020-05-19 07:39:32
+updated: 2020-05-21 11:14:11
 
 ## samo linki:
-- LS pred: https://global.gotomeeting.com/join/370091797
-- LS vaje: https://global.gotomeeting.com/join/905012341 
+- LS pred: https://global.gotomeeting.com/join/911956245
+- LS vaje: https://global.gotomeeting.com/join/905012341
 - MK pred: https://global.gotomeeting.com/join/735010005
 - MK vaje emabalaza 1: https://global.gotomeeting.com/join/229719629
 - MK vaje emabalaza 3: https://global.gotomeeting.com/join/579016605
@@ -34,7 +34,7 @@ updated: 2020-05-19 07:39:32
 	- TR pred: https://global.gotomeeting.com/join/593007621
 		- 11:00 - 12:30
 - TOR
-	- LS vaje: https://global.gotomeeting.com/join/905012341 
+	- LS vaje: https://global.gotomeeting.com/join/905012341
 		- 07:30 - 09:30
 		- 10:00 - 12:00
 		- 13:00 - 14:30
@@ -55,7 +55,7 @@ updated: 2020-05-19 07:39:32
 	- PI pred: https://global.gotomeeting.com/join/873596485
 		- 10:50 - 12:40
 - CET
-	- LS vaje: https://global.gotomeeting.com/join/905012341 
+	- LS vaje: https://global.gotomeeting.com/join/905012341
 		- 07:30 - 09:30
 		- 10:00 - 12:00
 		- 13:00 - 14:30
@@ -64,7 +64,7 @@ updated: 2020-05-19 07:39:32
 	- OM vaje PID: https://global.gotomeeting.com/join/593909597
 		- 11:00 - 14:00
 - PET
-	- LS pred: https://global.gotomeeting.com/join/370091797
+	- LS pred: https://global.gotomeeting.com/join/911956245
 		- 10:00 - 11:30
 
 ## Licenca
