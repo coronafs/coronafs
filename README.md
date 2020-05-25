@@ -6,6 +6,10 @@
 # ta teden na sporedu:
 updated: 2020-05-24 19:51:59
 
+## today's special (2020-05-25)
+- `19:00` kolokvij LS na e-ucilnici
+	- https://global.gotomeeting.com/join/399315501     
+
 ## samo linki:
 - LS pred: https://global.gotomeeting.com/join/911956245
 - LS vaje: https://global.gotomeeting.com/join/905012341
