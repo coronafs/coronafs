@@ -4,10 +4,10 @@
 - posnetki predavanj https://drive.google.com/open?id=1IRr_VypWnkjKROawaqUm3SdmUvIXlyR4
 - če hočeš kaj dodati preberi CONTRIBUTING.md
 # ta teden na sporedu:
-updated: 2020-05-27 10:38:54
+updated: 2020-05-27 17:36:07
 
 ## samo linki:
-- LS pred: https://global.gotomeeting.com/join/911956245
+- LS pred: https://global.gotomeeting.com/join/673282821
 - LS vaje: https://global.gotomeeting.com/join/905012341
 - MK pred: https://global.gotomeeting.com/join/949009845
 - MK vaje emabalaza 1: https://global.gotomeeting.com/join/229719629
@@ -64,7 +64,7 @@ updated: 2020-05-27 10:38:54
 	- OM vaje PID: https://global.gotomeeting.com/join/593909597
 		- 11:00 - 14:00
 - PET
-	- LS pred: https://global.gotomeeting.com/join/911956245
+	- LS pred: https://global.gotomeeting.com/join/673282821
 		- 10:00 - 11:30
 
 ## Licenca
