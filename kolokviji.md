@@ -29,13 +29,13 @@
 - `22.05.2020`
 	- MK Metodika konstruiranja (se ne bo izvajalo)
 - `25.05.2020`
-	- [ ] LS Laserski sistemi
+	- [x] LS Laserski sistemi
 - `29.05.2020`
 	- [ ] TR Tribologija vaje **ocitno se BO izvajalo**
 	- TR Tribologija (se ne bo izvajalo) (izpit bo na fakulteti)
+- `01.06.2020`
+	- [ ] MK prakticni kolokvi
 - `05.06.2020`
 	- [ ] OM Osnove mehatronike
 	- [ ] TA Tehnična akustika
-- `unknown place and time`
-	- [ ] MK prakticni kolokvi
 
