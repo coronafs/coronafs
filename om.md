@@ -7,23 +7,23 @@
 - predavanja ponedeljek 8:00
 
 ## predavanja vrabic
-elektromotorji
-- https://youtu.be/0AdcCyeFlfk
+- elektromotorji
+	- https://youtu.be/0AdcCyeFlfk
 
-izbira DC motorja ter uvod v kibernetiko
-- https://youtu.be/3YK88gYaApk
+- izbira DC motorja ter uvod v kibernetiko
+	- https://youtu.be/3YK88gYaApk
 
-kibernetika
-- https://youtu.be/nWl_iTuqkZU
+- kibernetika
+	- https://youtu.be/nWl_iTuqkZU
 
-PID krmiljenje ter uvod v robotiko
-- https://youtu.be/EfBGby8HzkQ
+- PID krmiljenje ter uvod v robotiko
+	- https://youtu.be/EfBGby8HzkQ
 
-uvod v robotiko
-- https://youtu.be/Ps_nCduMbM8
+- uvod v robotiko
+	- https://youtu.be/Ps_nCduMbM8
 
-robotika in zakljucek
-- https://youtu.be/-ZpVt8dUtBU
+- robotika in zakljucek
+	- https://youtu.be/-ZpVt8dUtBU
 
 
 # vaje
