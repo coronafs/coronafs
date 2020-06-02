@@ -31,11 +31,11 @@
 - `25.05.2020`
 	- [x] LS Laserski sistemi
 - `29.05.2020`
-	- [ ] TR Tribologija vaje **ocitno se BO izvajalo**
+	- [x] TR Tribologija vaje **ocitno se BO izvajalo**
 	- TR Tribologija (se ne bo izvajalo) (izpit bo na fakulteti)
 - `01.06.2020`
-	- [ ] MK prakticni kolokvi
+	- [x] MK prakticni kolokvi
 - `05.06.2020`
-	- [ ] OM Osnove mehatronike
+	- [ ] OM Osnove mehatronike `ob 18:00`
 	- [ ] TA Tehnična akustika
 
