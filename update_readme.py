@@ -38,7 +38,7 @@ ls_vaje.append_event("CET", "13:00 - 14:30")
 
 # metodika konstruiranja
 mk_pred = Link("MK pred")
-mk_pred.set_link("https://global.gotomeeting.com/join/949009845")
+mk_pred.set_link("https://global.gotomeeting.com/join/808970389")
 mk_pred.append_event("SRE", "13:15 - 15:15")
 
 mk1_emba = Link("MK vaje emabalaza 1")
@@ -100,7 +100,7 @@ with open("README.md", 'w') as f:
     f.write("- ta stran si prizadeva združiti informacije za študiji na FS\n")
     f.write("- trenutno so potrebne informacije razpršene po svetovnem spletu in poskusa centralizacije (še) ni\n")
     f.write("- posnetki predavanj https://drive.google.com/open?id=1IRr_VypWnkjKROawaqUm3SdmUvIXlyR4\n")
-    f.write("- če hočeš kaj dodati preberi CONTRIBUTING.md\n")
+    f.write("- če hočeš kaj dodati preberi CONTRIBUTING.md\n\n")
     
     
     f.write("# ta teden na sporedu:\n")

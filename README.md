@@ -3,8 +3,9 @@
 - trenutno so potrebne informacije razpršene po svetovnem spletu in poskusa centralizacije (še) ni
 - posnetki predavanj https://drive.google.com/open?id=1IRr_VypWnkjKROawaqUm3SdmUvIXlyR4
 - če hočeš kaj dodati preberi CONTRIBUTING.md
+
 # ta teden na sporedu:
-updated: 2020-05-27 17:36:07
+updated: 2020-06-03 12:36:41
 
 ## osnove mehatronike kolokvij:
 - petek 5. junij od **18:00** do 20:00
@@ -13,7 +14,7 @@ updated: 2020-05-27 17:36:07
 ## samo linki:
 - LS pred: https://global.gotomeeting.com/join/673282821
 - LS vaje: https://global.gotomeeting.com/join/905012341
-- MK pred: https://global.gotomeeting.com/join/949009845
+- MK pred: https://global.gotomeeting.com/join/808970389
 - MK vaje emabalaza 1: https://global.gotomeeting.com/join/229719629
 - MK vaje emabalaza 3: https://global.gotomeeting.com/join/579016605
 - MK vaje emabalaza 4: https://global.gotomeeting.com/join/757295093
@@ -54,7 +55,7 @@ updated: 2020-05-27 17:36:07
 		- 13:30 - 14:30
 		- 15:00 - 16:30
 - SRE
-	- MK pred: https://global.gotomeeting.com/join/949009845
+	- MK pred: https://global.gotomeeting.com/join/808970389
 		- 13:15 - 15:15
 	- PI pred: https://global.gotomeeting.com/join/873596485
 		- 10:50 - 12:40
