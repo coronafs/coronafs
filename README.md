@@ -6,6 +6,10 @@
 # ta teden na sporedu:
 updated: 2020-05-27 17:36:07
 
+## osnove mehatronike kolokvij:
+- petek 5. junij od **18:00** do 20:00
+- https://global.gotomeeting.com/join/593909597
+
 ## samo linki:
 - LS pred: https://global.gotomeeting.com/join/673282821
 - LS vaje: https://global.gotomeeting.com/join/905012341
