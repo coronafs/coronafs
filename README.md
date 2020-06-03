@@ -5,14 +5,15 @@
 - če hočeš kaj dodati preberi CONTRIBUTING.md
 
 # ta teden na sporedu:
-updated: 2020-06-03 12:36:41
+updated: 2020-06-03 14:32:41
 
 ## osnove mehatronike kolokvij:
 - petek 5. junij od **18:00** do 20:00
 - https://global.gotomeeting.com/join/593909597
 
+
 ## samo linki:
-- LS pred: https://global.gotomeeting.com/join/673282821
+- LS pred: https://global.gotomeeting.com/join/283323405
 - LS vaje: https://global.gotomeeting.com/join/905012341
 - MK pred: https://global.gotomeeting.com/join/808970389
 - MK vaje emabalaza 1: https://global.gotomeeting.com/join/229719629
@@ -69,7 +70,7 @@ updated: 2020-06-03 12:36:41
 	- OM vaje PID: https://global.gotomeeting.com/join/593909597
 		- 11:00 - 14:00
 - PET
-	- LS pred: https://global.gotomeeting.com/join/673282821
+	- LS pred: https://global.gotomeeting.com/join/283323405
 		- 10:00 - 11:30
 
 ## Licenca

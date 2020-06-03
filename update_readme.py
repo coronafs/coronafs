@@ -23,7 +23,7 @@ class Link:
 
 # laserski sistemi
 ls_pred = Link("LS pred")
-ls_pred.set_link("https://global.gotomeeting.com/join/673282821")
+ls_pred.set_link("https://global.gotomeeting.com/join/283323405")
 ls_pred.append_event("PET", "10:00 - 11:30")
 
 ls_vaje = Link("LS vaje")
